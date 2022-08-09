@@ -20,9 +20,9 @@
   ],
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/PAI-Tech/Wormholes/issues"
+    "url": "https://github.com/fridman-tamir/Wormhole/issues"
   },
-  "homepage": "https://github.com/PAI-Tech/Wormholes#readme",
+  "homepage": "https://github.com/fridman-tamir/Wormhole/Wormholes#readme",
   "devDependencies": {
     "vite": "^3.0.3"
   }
